@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_tracking.xml",
+        "source": "/Users/alessio/Documents/TensorFlow/res/layout/camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment.xml",
+        "source": "/Users/alessio/Documents/TensorFlow/res/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_stylize.xml",
+        "source": "/Users/alessio/Documents/TensorFlow/res/layout/camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/Users/alessio/Documents/TensorFlow/res/layout/activity_camera.xml"
+    }
+]

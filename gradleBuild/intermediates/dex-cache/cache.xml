@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfcb912291cf73ba659fc5e269379573f9ba7db7">
+        <dex dex="/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_592fa5d0f28b09cdd54f980b7db7f86f8d661ef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b113e6cf82fe8f6eee32adec0cc33f29f30d052f/classes.dex" />
+    </item>
+
+</items>

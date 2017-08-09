@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_action_info.png",
+        "source": "/Users/alessio/Documents/TensorFlow/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/alessio/Documents/TensorFlow/res/drawable-mdpi/ic_launcher.png"
+    }
+]

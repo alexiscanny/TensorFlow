@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/alessio/Documents/TensorFlow/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/alessio/Documents/TensorFlow/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alessio/Documents/TensorFlow/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/Users/alessio/Documents/TensorFlow/res/drawable-hdpi/ic_action_info.png"
+    }
+]
